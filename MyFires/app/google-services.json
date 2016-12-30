@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1088512474468",
+    "firebase_url": "https://myfires-d2f46.firebaseio.com",
+    "project_id": "myfires-d2f46",
+    "storage_bucket": "myfires-d2f46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088512474468:android:e0cb2409771eace9",
+        "android_client_info": {
+          "package_name": "com.radiant.myfires"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088512474468-67nmprjqvottvk6jidge52nd1t5treoe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.radiant.myfires",
+            "certificate_hash": "851DD729E31C9BB4838092DEEB847B8C6474F2DC"
+          }
+        },
+        {
+          "client_id": "1088512474468-2mdkrfk2rjucgrlp3akfodilaa8luctu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvsM0h9OzVZgOaSh-SjoRBpWevr2cODTM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088512474468-2mdkrfk2rjucgrlp3akfodilaa8luctu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
